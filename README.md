@@ -77,26 +77,28 @@ ___
 
 ### Capítulo 21 - Primeiro, depois, mais tarde, nunca (_First, After, Later, Never_)
 
-> Resumo: "Não arrume (_tidy_) nunca quando:
+Resumo:
 
-- Você nunca mais vai mudar este código.
-- Não há nada a aprender melhorando o design.
-
-Arrume (_Tidy_) mais tarde quando:
-
-- Você tem uma grande quantidade de arrumação (_tidying_) para fazer sem retorno imediato.
-- Há um retorno eventual por completar a arrumação (_tidying_).
-- Você pode arrumar (_tidy_) em pequenos lotes.
-
-Arrume (_Tidy_) depois quando:
-
-- Esperar até a próxima vez para arrumar primeiro será mais caro.
-- Você não terá a sensação de estar completando se não arrumar depois.
-
-Arrume (_Tidy_) primeiro quando:
-
-- O retorno será imediato, seja na melhoria da compreensão ou em mudanças de comportamento mais baratas.
-- Você sabe o que arrumar e como."
+> "Não arrume (_tidy_) nunca quando:
+>
+> - Você nunca mais vai mudar este código.
+> - Não há nada a aprender melhorando o design.
+>
+> Arrume (_Tidy_) mais tarde quando:
+>
+> - Você tem uma grande quantidade de arrumação (_tidying_) para fazer sem retorno imediato.
+> - Há um retorno eventual por completar a arrumação (_tidying_).
+> - Você pode arrumar (_tidy_) em pequenos lotes.
+>
+> Arrume (_Tidy_) depois quando:
+>
+> - Esperar até a próxima vez para arrumar primeiro será mais caro.
+> - Você não terá a sensação de estar completando se não arrumar depois.
+>
+> Arrume (_Tidy_) primeiro quando:
+>
+> - O retorno será imediato, seja na melhoria da compreensão ou em mudanças de comportamento mais baratas.
+> - Você sabe o que arrumar e como."
 
 ## Parte III - Teoria
 
