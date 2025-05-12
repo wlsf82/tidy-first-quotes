@@ -110,20 +110,20 @@ Resumo:
 
 ### Capítulo 23 - Estrutura e comportamento
 
-> O software cria valor de duas maneiras:
+> "O software cria valor de duas maneiras:
 >
 > - O que ele faz hoje
-> - A possibilidade de novas coisas que que ele possa fazer amanhã
+> - A possibilidade de novas coisas que que ele possa fazer amanhã"
 
-> As opções são a mágica econômica do software - especialmente a opção de expansão.
+> "As opções são a mágica econômica do software - especialmente a opção de expansão."
 
-> Quanto mais volátil for o ambiente, mais valiosas as opções se tornam.
+> "Quanto mais volátil for o ambiente, mais valiosas as opções se tornam."
 
-> Comece entendendo que mudanças estruturais e comportamentais são formas de criar valor, mas são fundamentalmente diferentes. Como? Em uma palavra, reversibilidade.
+> "Comece entendendo que mudanças estruturais e comportamentais são formas de criar valor, mas são fundamentalmente diferentes. Como? Em uma palavra, reversibilidade."
 
 ### Capítulo 24 - Economia: Valor Temporal e Opcionalidade
 
-> O que faz sentido para nós, programadores, pode ir contra a natureza do dinheiro. Quando os imperativos nerds entram em conflito com os imperativos financeiros, o dinheiro vence. Eventualmente.
+> "O que faz sentido para nós, programadores, pode ir contra a natureza do dinheiro. Quando os imperativos nerds entram em conflito com os imperativos financeiros, o dinheiro vence. Eventualmente.
 >
 > Depois que minhas lições sobre a natureza do dinheiro foram absorvidas pela minha intuição, percebi que minha atitude em relação à programação estava mudando. Estratégias que faziam todo o sentido para mim agora pareciam bizarras quando contradiziam a natureza do dinheiro. Estratégias que pareciam marginais, superficiais ou ingênuas tornaram-se apenas uma gestão financeira sensata. Quanto mais eu remava com a Corrente do Comércio, mais rápido meu barco ia.
 >
@@ -132,17 +132,17 @@ Resumo:
 > - Um dólar hoje vale mais do que um dólar amanhã, então ganhe mais cedo e gaste mais tarde.
 > - Em uma situação caótica, opções são melhores do que coisas, então crie opções diante da incerteza.
 >
-> Às vezes, essas duas estratégias entram em conflito. Ganhar dinheiro pode reduzir opções futuras. Mas talvez, se você não ganhar dinheiro agora, não esteja por perto para exercer essas opções futuras.
+> Às vezes, essas duas estratégias entram em conflito. Ganhar dinheiro pode reduzir opções futuras. Mas talvez, se você não ganhar dinheiro agora, não esteja por perto para exercer essas opções futuras."
 
-> O design de software precisa conciliar os imperativos de "ganhar mais cedo/gastar mais tarde" e "criar opções, não coisas".
+> "O design de software precisa conciliar os imperativos de 'ganhar mais cedo/gastar mais tarde' e 'criar opções, não coisas'."
 
 ### Capítulo 26 - Opções
 
-> O design de software é uma preparação para mudanças; mudanças de comportamento. ... O design que fazemos hoje é o prêmio que pagamos pelas "opções" de "comprar" a mudança de comportamento amanhã.
+> "O design de software é uma preparação para mudanças; mudanças de comportamento. ... O design que fazemos hoje é o prêmio que pagamos pelas "opções" de "comprar" a mudança de comportamento amanhã."
 
 ### Capítulo 27 - Opções versus fluxos de caixa
 
-> Arrume primeiro, com certeza. Quando:
+> "Arrume primeiro, com certeza. Quando:
 >
 > `custo(arrumação - _tidy_) + custo(mudança de comportamento após a arrumação - _tidy_) < custo(mudança de comportamento sem arrumação - _tidy_)`
 >
@@ -150,35 +150,35 @@ Resumo:
 >
 > As situações mais tensas ocorrem quando:
 >
-> `custo(arrumação - _tidy_) + custo(mudança de comportamento após a arrumação - _tidy_) > custo(mudança de comportamento sem arrumação - _tidy_)`
+> `custo(arrumação - _tidy_) + custo(mudança de comportamento após a arrumação - _tidy_) > custo(mudança de comportamento sem arrumação - _tidy_)`"
 
 ### Capítulo 28 - Mudanças estruturais reversíveis
 
-> Qual é a diferença entre um corte de cabelo ruim e uma tatuagem ruim? O corte de cabelo ruim cresce, mas a tatuagem ruim é para sempre (bem, não para sempre, mas é muito mais difícil de desfazer).
+> "Qual é a diferença entre um corte de cabelo ruim e uma tatuagem ruim? O corte de cabelo ruim cresce, mas a tatuagem ruim é para sempre (bem, não para sempre, mas é muito mais difícil de desfazer)."
 
 ### Capítulo 29 - Acoplamento
 
-> Para se prepararem para escrever seu texto clássico, _Structured Design_, Ed Yourdon e Larry Constantine examinaram programas para descobrir o que os tornava tão caros. Eles notaram que todos os programas caros tinham uma propriedade em comum: mudar um elemento exigia mudar outros elementos. Os programas baratos tendiam a exigir mudanças localizadas.
+> "Para se prepararem para escrever seu texto clássico, _Structured Design_, Ed Yourdon e Larry Constantine examinaram programas para descobrir o que os tornava tão caros. Eles notaram que todos os programas caros tinham uma propriedade em comum: mudar um elemento exigia mudar outros elementos. Os programas baratos tendiam a exigir mudanças localizadas."
 
 #### Cascata
 
-> Mudanças em cascata são o maior problema.
+> "Mudanças em cascata são o maior problema.
 >
-> Você usará o design de software para reduzir a probabilidade e a magnitude das mudanças em cascata.
+> Você usará o design de software para reduzir a probabilidade e a magnitude das mudanças em cascata."
 
-> Quando dizemos que um sistema é "complexo", queremos dizer que as mudanças têm consequências inesperadas.
+> "Quando dizemos que um sistema é "complexo", queremos dizer que as mudanças têm consequências inesperadas."
 
-> O que o acoplamento significa para responder à pergunta "Devo arrumar primeiro?". Às vezes, quando você está começando uma mudança complicada, é o acoplamento que está te incomodando: "Mas se eu mudar isso, terei que mudar tudo isso também". Bagunça. Reserve um minuto para analisar a lista de arrumações e ver qual delas reduziria o acoplamento.
+> "O que o acoplamento significa para responder à pergunta "Devo arrumar primeiro?". Às vezes, quando você está começando uma mudança complicada, é o acoplamento que está te incomodando: "Mas se eu mudar isso, terei que mudar tudo isso também". Bagunça. Reserve um minuto para analisar a lista de arrumações e ver qual delas reduziria o acoplamento.
 > 
-> O acoplamento aumenta o custo do software.
+> O acoplamento aumenta o custo do software."
 
 ### Capítulo 30 - Equivalência de Constantine
 
-> O objetivo do design de software é minimizar o custo do software (e também maximizar o valor).
+> "O objetivo do design de software é minimizar o custo do software (e também maximizar o valor)."
 
-> Quanto mais cedo recebermos feedback do uso real, menos tempo/dinheiro/oportunidade gastaremos em comportamentos que não importam.
+> "Quanto mais cedo recebermos feedback do uso real, menos tempo/dinheiro/oportunidade gastaremos em comportamentos que não importam."
 
-> O custo do software é aproximadamente igual ao custo de alterá-lo.
+> "O custo do software é aproximadamente igual ao custo de alterá-lo.
 >
 > `custo(software) ~= custo(mudança)`
 
@@ -198,29 +198,29 @@ Resumo:
 > 
 > `custo(software) ~= acoplamento`
 > 
-> Para reduzir o custo do software, precisamos reduzir o acoplamento.
+> Para reduzir o custo do software, precisamos reduzir o acoplamento."
 
 ### Capítulo 31 - Acoplamento versus desacoplamento
 
-> Aqui está algo em que acredito, mas não consigo provar ou explicar adequadamente: quanto mais você reduz o acoplamento para uma classe de mudanças, maior se torna o acoplamento para outras classes de mudanças. A implicação prática disso (se corresponder à sua intuição) é que você não deve se preocupar em extrair até a última gota de acoplamento. O acoplamento criado ao fazer isso não vale a pena.
+> "Aqui está algo em que acredito, mas não consigo provar ou explicar adequadamente: quanto mais você reduz o acoplamento para uma classe de mudanças, maior se torna o acoplamento para outras classes de mudanças. A implicação prática disso (se corresponder à sua intuição) é que você não deve se preocupar em extrair até a última gota de acoplamento. O acoplamento criado ao fazer isso não vale a pena."
 
-> Design de softwere é dífícil - _software design is hard._
+> "Design de softwere é dífícil - _software design is hard._"
 
 ### Capítulo 32 - Coesão
 
-> Não faça mudanças bruscas. Você está trabalhando com informações incompletas e variáveis ​​sobre o que está associado ao quê. Não reorganize tudo drasticamente. Mova um elemento de cada vez. Deixe o código mais organizado (_tidier_) para a próxima pessoa. Se todos seguirem a regra do escoteiro ("deixe melhor do que encontrou"), o código se tornará mais prático com o tempo.
+> "Não faça mudanças bruscas. Você está trabalhando com informações incompletas e variáveis ​​sobre o que está associado ao quê. Não reorganize tudo drasticamente. Mova um elemento de cada vez. Deixe o código mais organizado (_tidier_) para a próxima pessoa. Se todos seguirem a regra do escoteiro ("deixe melhor do que encontrou"), o código se tornará mais prático com o tempo."
 
 ### Capítulo 33 - Conclusão
 
-> E com isso você está preparado(a) para responder à pergunta "arrumar primeiro?" repetidamente. Cada vez de forma ligeiramente diferente, mas sempre afetado pelas mesmas forças:
+> "E com isso você está preparado(a) para responder à pergunta "arrumar primeiro?" repetidamente. Cada vez de forma ligeiramente diferente, mas sempre afetado pelas mesmas forças:
 >
 > - Custo - A arrumação (_tidying_) tornará os custos menores, mais tarde ou menos prováveis?
 > - Receita - A arrumação (_tidying_) tornará a receita maior, mais cedo ou mais provável?
 > - Acoplamento - A arrumação (_tidying_) fará com que eu precise alterar menos elementos?
 > - Coesão - A arrumação (_tidying_) fará com que os elementos que preciso alterar estejam em um escopo menor e mais concentrado?
 >
-> O mais importante, porém, é você. A arrumação (_tidying_) trará paz, satisfação e alegria à sua programação? Talvez um pouco. Isso é importante porque, se você for a sua melhor versão, será um/uma programador(a) melhor. Você não pode ser a sua melhor versão se estiver sempre com pressa, se estiver sempre alterando código que é doloroso de alterar.
+> O mais importante, porém, é você. A arrumação (_tidying_) trará paz, satisfação e alegria à sua programação? Talvez um pouco. Isso é importante porque, se você for a sua melhor versão, será um/uma programador(a) melhor. Você não pode ser a sua melhor versão se estiver sempre com pressa, se estiver sempre alterando código que é doloroso de alterar."
 
-> Arrumações (_tidyings_) são os _Pringles_ do design de software. Quando estiver arrumando (_tidying_) primeiro, resista à vontade de comer o próximo. Arrume (_tidy_) para permitir as próximas mudanças de comportamento. Guarde a maratona de arrumação (_tidying_) para depois, quando você pode pirar sem atrasar a mudança que outra pessoa está esperando.
+> "Arrumações (_tidyings_) são os _Pringles_ do design de software. Quando estiver arrumando (_tidying_) primeiro, resista à vontade de comer o próximo. Arrume (_tidy_) para permitir as próximas mudanças de comportamento. Guarde a maratona de arrumação (_tidying_) para depois, quando você pode pirar sem atrasar a mudança que outra pessoa está esperando."
 
-> Arrumar primeiro? (_Tidy First?_) Provavelmente sim. Só o suficiente. Você merece.
+> "Arrumar primeiro? (_Tidy First?_) Provavelmente sim. Só o suficiente. Você merece."
