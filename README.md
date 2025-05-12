@@ -26,7 +26,7 @@ ___
 >
 > Reordene o código para que os elementos que você precisa alterar fiquem adjacentes. A ordem de coesão funciona para rotinas em um arquivo: se duas rotinas estiverem acopladas, coloque-as uma ao lado da outra. Também funciona para arquivos em diretórios: se dois arquivos estiverem acoplados, coloque-os no mesmo diretório. Funciona até mesmo entre repositórios: coloque o código acoplado no mesmo repositório antes de alterá-lo.
 >
-> Por que não simplesmente eliminar o acoplamento? Se você sabe como fazer isso, vá em frente. Essa é a melhor organização de todas, assumindo: custo(desacoplamento) + custo(mudança) < custo(acoplamento) + custo(mudança)"
+> Por que não simplesmente eliminar o acoplamento? Se você sabe como fazer isso, vá em frente. Essa é a melhor organização de todas, assumindo: `custo(desacoplamento) + custo(mudança) < custo(acoplamento) + custo(mudança)`"
 
 ### Capítulo 11 - Declarações em pedaços (_Chunk Statements_)
 
@@ -144,13 +144,13 @@ Resumo:
 
 > Arrume primeiro, com certeza. Quando:
 >
-> custo(arrumação - _tidy_) + custo(mudança de comportamento após a arrumação - _tidy_) < custo(mudança de comportamento sem arrumação - _tidy_)
+> `custo(arrumação - _tidy_) + custo(mudança de comportamento após a arrumação - _tidy_) < custo(mudança de comportamento sem arrumação - _tidy_)`
 >
 > Então, arrume primeiro, com certeza.
 >
 > As situações mais tensas ocorrem quando:
 >
-> custo(arrumação - _tidy_) + custo(mudança de comportamento após a arrumação - _tidy_) > custo(mudança de comportamento sem arrumação - _tidy_)
+> `custo(arrumação - _tidy_) + custo(mudança de comportamento após a arrumação - _tidy_) > custo(mudança de comportamento sem arrumação - _tidy_)`
 
 ### Capítulo 28 - Mudanças estruturais reversíveis
 
@@ -180,23 +180,23 @@ Resumo:
 
 > O custo do software é aproximadamente igual ao custo de alterá-lo.
 >
-> custo(software) ~= custo(mudança)
+> `custo(software) ~= custo(mudança)`
 
 > O custo da mudança é aproximadamente igual ao custo das grandes mudanças:
 >
-> custo(mudança) ~= custo(grande mudança)
+> `custo(mudança) ~= custo(grande mudança)`
 >
 > O que torna essas mudanças caras tão caras? É que mudar este elemento requer mudar aqueles dois elementos, cada um dos quais requer mudar outros elementos, e... e... O que "propaga" as mudanças? Acoplamento. Portanto, o custo do software é aproximadamente igual ao acoplamento:
 > 
-> custo(grande mudança) ~= acoplamento
+> `custo(grande mudança) ~= acoplamento`
 >
 > E agora temos a Equivalência de Constantine completa:
 > 
-> custo(software) ~= custo(mudança) ~= custo(grande mudança) ~= acoplamento
+> `custo(software) ~= custo(mudança) ~= custo(grande mudança) ~= acoplamento`
 >
 > Ou para destacar a importância do design de software:
 > 
-> custo(software) ~= acoplamento
+> `custo(software) ~= acoplamento`
 > 
 > Para reduzir o custo do software, precisamos reduzir o acoplamento.
 
