@@ -108,6 +108,10 @@ Resumo:
 
 > "Design de software: relacionando elementos de forma benéfica."
 
+> "Uma leitura da expressão "elementos que se relacionam beneficamente" começa com "o design é...". O que é o design? São os elementos, seus relacionamentos e os benefícios derivados desses relacionamentos.
+>
+> Outra leitura começa com "designers são...". O que os designers fazem? Eles relacionam elementos beneficamente."
+
 ### Capítulo 23 - Estrutura e comportamento
 
 > "O software cria valor de duas maneiras:
