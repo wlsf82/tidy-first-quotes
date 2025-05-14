@@ -172,7 +172,7 @@ Resumo:
 
 > "Quando dizemos que um sistema é 'complexo', queremos dizer que as mudanças têm consequências inesperadas."
 
-> "O que o acoplamento significa para responder à pergunta "Devo arrumar primeiro?". Às vezes, quando você está começando uma mudança complicada, é o acoplamento que está te incomodando: "Mas se eu mudar isso, terei que mudar tudo isso também". Bagunça. Reserve um minuto para analisar a lista de arrumações e ver qual delas reduziria o acoplamento.
+> "O que o acoplamento significa para responder à pergunta 'Devo arrumar primeiro?'. Às vezes, quando você está começando uma mudança complicada, é o acoplamento que está te incomodando: 'Mas se eu mudar isso, terei que mudar tudo isso também'. Bagunça. Reserve um minuto para analisar a lista de arrumações e ver qual delas reduziria o acoplamento.
 > 
 > O acoplamento aumenta o custo do software."
 
