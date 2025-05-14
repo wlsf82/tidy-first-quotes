@@ -148,13 +148,13 @@ Resumo:
 
 > "Arrume primeiro (_Tidy First_), com certeza. Quando:
 >
-> `custo(arrumação - _tidy_) + custo(mudança de comportamento após a arrumação - _tidy_) < custo(mudança de comportamento sem arrumação - _tidy_)`
+> `custo(arrumação - tidy) + custo(mudança de comportamento após a arrumação - tidy) < custo(mudança de comportamento sem arrumação - tidy)`
 >
 > Então, arrume primeiro, com certeza.
 >
 > As situações mais tensas ocorrem quando:
 >
-> `custo(arrumação - _tidy_) + custo(mudança de comportamento após a arrumação - _tidy_) > custo(mudança de comportamento sem arrumação - _tidy_)`"
+> `custo(arrumação - tidy) + custo(mudança de comportamento após a arrumação - tidy) > custo(mudança de comportamento sem arrumação - tidy)`"
 
 ### Capítulo 28 - Mudanças estruturais reversíveis
 
