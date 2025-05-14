@@ -190,7 +190,7 @@ Resumo:
 >
 > `custo(mudança) ~= custo(grande mudança)`
 >
-> O que torna essas mudanças caras tão caras? É que mudar este elemento requer mudar aqueles dois elementos, cada um dos quais requer mudar outros elementos, e... e... O que "propaga" as mudanças? Acoplamento. Portanto, o custo do software é aproximadamente igual ao acoplamento:
+> O que torna essas mudanças caras tão caras? É que mudar este elemento requer mudar aqueles dois elementos, cada um dos quais requer mudar outros elementos, e... e... O que 'propaga' as mudanças? Acoplamento. Portanto, o custo do software é aproximadamente igual ao acoplamento:
 > 
 > `custo(grande mudança) ~= acoplamento`
 >
@@ -212,11 +212,11 @@ Resumo:
 
 ### Capítulo 32 - Coesão
 
-> "Não faça mudanças bruscas. Você está trabalhando com informações incompletas e variáveis ​​sobre o que está associado ao quê. Não reorganize tudo drasticamente. Mova um elemento de cada vez. Deixe o código mais organizado (_tidier_) para a próxima pessoa. Se todos seguirem a regra do escoteiro ("deixe melhor do que encontrou"), o código se tornará mais prático com o tempo."
+> "Não faça mudanças bruscas. Você está trabalhando com informações incompletas e variáveis ​​sobre o que está associado ao quê. Não reorganize tudo drasticamente. Mova um elemento de cada vez. Deixe o código mais organizado (_tidier_) para a próxima pessoa. Se todos seguirem a regra do escoteiro ('deixe melhor do que encontrou'), o código se tornará mais prático com o tempo."
 
 ### Capítulo 33 - Conclusão
 
-> "E com isso você está preparado(a) para responder à pergunta "arrumar primeiro?" repetidamente. Cada vez de forma ligeiramente diferente, mas sempre afetado pelas mesmas forças:
+> "E com isso você está preparado(a) para responder à pergunta 'arrumar primeiro?' (_tidy first?_) repetidamente. Cada vez de forma ligeiramente diferente, mas sempre afetado pelas mesmas forças:
 >
 > - Custo - A arrumação (_tidying_) tornará os custos menores, mais tarde ou menos prováveis?
 > - Receita - A arrumação (_tidying_) tornará a receita maior, mais cedo ou mais provável?
