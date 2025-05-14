@@ -146,7 +146,7 @@ Resumo:
 
 ### Capítulo 27 - Opções versus fluxos de caixa
 
-> "Arrume primeiro, com certeza. Quando:
+> "Arrume primeiro (_Tidy First_), com certeza. Quando:
 >
 > `custo(arrumação - _tidy_) + custo(mudança de comportamento após a arrumação - _tidy_) < custo(mudança de comportamento sem arrumação - _tidy_)`
 >
