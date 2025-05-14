@@ -225,6 +225,6 @@ Resumo:
 >
 > O mais importante, porém, é você. A arrumação (_tidying_) trará paz, satisfação e alegria à sua programação? Talvez um pouco. Isso é importante porque, se você for a sua melhor versão, será um/uma programador(a) melhor. Você não pode ser a sua melhor versão se estiver sempre com pressa, se estiver sempre alterando código que é doloroso de alterar."
 
-> "Arrumações (_tidyings_) são os _Pringles_ do design de software. Quando estiver arrumando (_tidying_) primeiro, resista à vontade de comer o próximo. Arrume (_tidy_) para permitir as próximas mudanças de comportamento. Guarde a maratona de arrumação (_tidying_) para depois, quando você pode pirar sem atrasar a mudança que outra pessoa está esperando."
+> "Arrumações (_tidyings_) são os _Pringles_ do design de software. Quando estiver arrumando (_tidying_) primeiro (_first_), resista à vontade de comer o próximo. Arrume (_tidy_) para permitir as próximas mudanças de comportamento. Guarde a maratona de arrumação (_tidying_) para depois, quando você pode pirar sem atrasar a mudança que outra pessoa está esperando."
 
 > "Arrumar primeiro? (_Tidy First?_) Provavelmente sim. Só o suficiente. Você merece."
