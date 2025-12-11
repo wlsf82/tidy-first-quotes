@@ -7,7 +7,7 @@ ___
 
 ## Prefácio por Larry Constantine
 
-> "Acoplamento e coesão são simplesmente medidas da complexidade do código de computador, não da perspectiva do computador que executa o programa, mas da de seres humanos tentando entender o código. Para entender qualquer programa, seja para criá-lo, corrigi-lo ou alterá-lo, é necessário entender o trecho de código imediatamente à sua frente, bem como os outros trechos aos quais ele está conectado, dos quais depende, afeta ou é afetado. É mais fácil entender o trecho de código imediato se tudo estiver interligado, se fizer sentido como um todo, se formar o que os psicólogos cognitivos chamam de gestalt. Isso é coesão. Também é mais fácil entender em termos de seus relacionamentos com outros trechos de código se esses relacionamentos forem poucos e relativamente fracos ou altamente restritos. Isso é acoplamento. Acoplamento e coesão têm tudo a ver com como seu cérebro lida com sistemas complicados."
+> "Acoplamento e coesão são simplesmente medidas da complexidade do código de computador, não da perspectiva do computador que executa o programa, mas da de seres humanos tentando entender o código. Para entender qualquer programa, seja para criá-lo, corrigi-lo ou alterá-lo, é necessário entender o trecho de código imediatamente à sua frente, bem como os outros trechos aos quais ele está conectado, dos quais depende, afeta ou é afetado. É mais fácil entender o trecho de código imediato se tudo estiver interligado, se fizer sentido como um todo, se formar o que os psicólogos cognitivos chamam de Gestalt. Isso é coesão. Também é mais fácil entender em termos de seus relacionamentos com outros trechos de código se esses relacionamentos forem poucos e relativamente fracos ou altamente restritos. Isso é acoplamento. Acoplamento e coesão têm tudo a ver com como seu cérebro lida com sistemas complicados."
 
 ## Introdução
 
@@ -73,16 +73,16 @@ ___
 
 ### Capítulo 20 - Desembaraçar-se (_Getting Untangled_)
 
-> "você não está apenas instruindo um computador, você está explicando suas intenções para o computador para outras pessoas."
+> "Você não está apenas instruindo um computador; você está explicando suas intenções para o computador para outras pessoas."
 
-### Capítulo 21 - Primeiro, depois, mais tarde, nunca (_First, After, Later, Never_)
+### Capítulo 21 - Primeiro, logo depois, mais tarde, nunca (_First, After, Later, Never_)
 
 Resumo:
 
 > "Não arrume (_tidy_) nunca quando:
 >
 > - Você nunca mais vai mudar este código.
-> - Não há nada a aprender melhorando o design.
+> - Não há nada a aprender ao melhorar o design.
 >
 > Arrume (_Tidy_) mais tarde quando:
 >
@@ -90,7 +90,7 @@ Resumo:
 > - Há um retorno eventual por completar a arrumação (_tidying_).
 > - Você pode arrumar (_tidy_) em pequenos lotes.
 >
-> Arrume (_Tidy_) depois quando:
+> Arrume (_Tidy_) logo depois quando:
 >
 > - Esperar até a próxima vez para arrumar primeiro será mais caro.
 > - Você não terá a sensação de estar completando se não arrumar depois.
@@ -117,7 +117,7 @@ Resumo:
 > "O software cria valor de duas maneiras:
 >
 > - O que ele faz hoje
-> - A possibilidade de novas coisas que que ele possa fazer amanhã"
+> - A possibilidade de novas coisas que ele possa fazer amanhã"
 
 > "As opções são a mágica econômica do software - especialmente a opção de expansão."
 
@@ -142,7 +142,7 @@ Resumo:
 
 ### Capítulo 26 - Opções
 
-> "O design de software é uma preparação para mudanças; mudanças de comportamento. ... O design que fazemos hoje é o prêmio que pagamos pelas "opções" de "comprar" a mudança de comportamento amanhã."
+> "O design de software é uma preparação para mudanças; mudanças de comportamento. … O design que fazemos hoje é o prêmio que pagamos pelas "opções" de "comprar" a mudança de comportamento amanhã."
 
 ### Capítulo 27 - Opções versus fluxos de caixa
 
@@ -190,7 +190,7 @@ Resumo:
 >
 > `custo(mudança) ~= custo(grande mudança)`
 >
-> O que torna essas mudanças caras tão caras? É que mudar este elemento requer mudar aqueles dois elementos, cada um dos quais requer mudar outros elementos, e... e... O que 'propaga' as mudanças? Acoplamento. Portanto, o custo do software é aproximadamente igual ao acoplamento:
+> O que torna essas mudanças tão caras? É que mudar este elemento requer mudar aqueles dois elementos, cada um dos quais requer mudar outros elementos, e… e… O que 'propaga' as mudanças? Acoplamento. Portanto, o custo do software é aproximadamente igual ao acoplamento:
 > 
 > `custo(grande mudança) ~= acoplamento`
 >
@@ -208,7 +208,7 @@ Resumo:
 
 > "Aqui está algo em que acredito, mas não consigo provar ou explicar adequadamente: quanto mais você reduz o acoplamento para uma classe de mudanças, maior se torna o acoplamento para outras classes de mudanças. A implicação prática disso (se corresponder à sua intuição) é que você não deve se preocupar em extrair até a última gota de acoplamento. O acoplamento criado ao fazer isso não vale a pena."
 
-> "Design de softwere é dífícil - _software design is hard._"
+> "Design de software é difícil - _software design is hard._"
 
 ### Capítulo 32 - Coesão
 
@@ -225,6 +225,6 @@ Resumo:
 >
 > O mais importante, porém, é você. A arrumação (_tidying_) trará paz, satisfação e alegria à sua programação? Talvez um pouco. Isso é importante porque, se você for a sua melhor versão, será um/uma programador(a) melhor. Você não pode ser a sua melhor versão se estiver sempre com pressa, se estiver sempre alterando código que é doloroso de alterar."
 
-> "Arrumações (_tidyings_) são os _Pringles_ do design de software. Quando estiver arrumando (_tidying_) primeiro (_first_), resista à vontade de comer o próximo. Arrume (_tidy_) para permitir as próximas mudanças de comportamento. Guarde a compulsão de arrumação (_tidying_) para depois, quando você pode pirar sem atrasar a mudança que outra pessoa está esperando."
+> "Arrumações (_tidyings_) são os _Pringles_ do design de software. Quando estiver arrumando (_tidying_) primeiro (_first_), resista à vontade de comer o próximo. Arrume (_tidy_) para permitir as próximas mudanças de comportamento. Guarde a compulsão de arrumação (_tidying_) para depois, quando você puder pirar sem atrasar a mudança que outra pessoa está esperando."
 
 > "Arrumar primeiro? (_Tidy First?_) Provavelmente sim. Só o suficiente. Você merece."
